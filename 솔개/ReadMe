@@ -1,0 +1,22 @@
+This program is composed of following 13 files.
+
+main.cpp
+
+Topping.cpp
+Topping.h
+ToppingList.cpp
+ToppingList.h
+
+Dough.cpp
+Dough.h
+DoughList.cpp
+DoughList.h
+
+Edge.cpp
+Edge.h
+EdgeList.cpp
+EdgeList.h
+
+Each .h file has declaration of a class, member functions and member variables with it's name. For example, Topping.h has the declartion of class Topping and its member functions and member variables in the file. 
+The implementation of member functions of each class is written in cpp file with corresponding name. For example, the member functions for Topping class is implemented in Topping.cpp.
+Finally, main.cpp has the main function of this program and several functions used for main function.
